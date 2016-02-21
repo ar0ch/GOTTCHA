@@ -124,8 +124,8 @@ corresponding *.md5 file for verification.
 
 You can use the 'wget' command to download both archives, one at a time:
 
-        $ wget ftp://ftp.lanl.gov/public/genome/gottcha/GOTTCHA_lookup.tar.gz
-        $ wget ftp://ftp.lanl.gov/public/genome/gottcha/GOTTCHA_BACTERIA_c3514_k24_u24_xHUMAN3x.species.tar.gz
+        $ wget ftp://ftp.lanl.gov/public/genome/gottcha/GOTTCHA_database_v20150825/GOTTCHA_lookup.tar.gz
+        $ wget ftp://ftp.lanl.gov/public/genome/gottcha/GOTTCHA_database_v20150825/GOTTCHA_BACTERIA_c4937_k24_u30.species.tar.gz
 
 Then use 'tar' to unpack and decompress both archives:
 
